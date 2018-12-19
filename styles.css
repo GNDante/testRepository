@@ -1,0 +1,11 @@
+body{
+	background-color:#414141;
+	color:white;
+	font-family:verdana;
+}
+header img{
+	border-radius:150px;
+	width:150px;
+	height:150px;
+	float:left;
+}
